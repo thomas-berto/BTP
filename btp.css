@@ -1,0 +1,272 @@
+
+
+	body{
+		margin: 0;
+		
+		background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWKdX6qDkEFQcrl_LqQuyiQQDc30WYnw8aeOXvykF4BswCn6mgHQ&s");
+		color:white;
+	
+	}
+ 
+
+
+	header
+	{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+font-family: monospace ;
+background-color:#FAF3F3;
+background-image:url("https://www.desire-btp-massay.fr/wp-content/uploads/sites/3505/2017/05/source.gif");
+ background-position:top left;
+  background-repeat:no-repeat;
+background-size: 190px 250px;
+    	}
+
+	section
+	{display:flex;
+	margin-left:10px;
+	justify-content: space-between;
+	
+	}
+	
+	article
+	{display:flex;
+padding:20px;
+margin:0 auto;
+	}
+	
+	h1
+	{font-size:25px;
+	display:flex;
+	justify-content:center;
+	transition:3s;
+	text-align:center;}
+	
+	
+	.uno
+	{display: flex;
+flex-direction: row;
+justify-content:right;
+font-size:20%;
+background-color:white;
+	}
+	.nana
+	{display: flex;
+flex-direction: row;
+	justify-content: space-between;
+	
+	}
+
+
+	.deuxio{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		text-shadow:1px 1px 2px pink;
+	}
+
+ ul{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		list-style-type: none;
+	}
+
+ li{
+		padding: 0 20px;
+		list-style-type: none;
+		font-size: 22px;
+		color: #000000;
+		text-decoration: none;
+	}
+	
+
+
+
+	.tercio{
+		display: flex;
+		flex-direction: row;
+	color: #FFFFFF;
+font-size: 5px;
+		font-family: GeosansLight;
+	border:1px  dotted black;
+	background-color:white
+	
+	
+	
+	}
+	
+
+q{border:5px solid transparent;
+background-color:white}
+
+
+
+footer
+{
+display: flex;
+padding-top:80px;
+color:white;
+flex-direction:column;
+justify-content: space-between;
+align-items: center;
+background-color:#FAF3F3;
+margin:30px;
+
+
+}
+
+
+
+
+
+#author
+{color:white;}
+
+
+.mouss
+{
+	font-size:200%;
+padding-bottom:200px;
+padding-top:200px;
+	  font-family:"Segoe Print", "Times New Roman",Verdana;
+	  font-style:normal;
+  margin-left:32px;
+  color:black;
+  background-repeat:no-repeat;
+min-height: 30px;  }
+
+.anmx
+{font-family: cursive;}
+
+.jaune
+{
+border: 2px solide ;
+border-color:orange;
+}
+
+.minoush
+{
+color:blue;
+text-decoration:underline;}
+
+.fox
+{color:blue;
+text-decoration:underline;
+}
+
+.rox
+{color:blue;
+text-decoration:underline;}
+
+.titre
+{
+text-decoration: underline overline;
+color:yellow; }
+
+.perso
+
+{border:1px dotted black;
+text-align:center;
+}
+
+.tw
+
+{
+ font-family:cursive;
+margin left:0;
+
+}
+.toc
+{display:flex;
+margin-left: 0;
+justify-content: space-between;
+}
+
+.tuc
+{display: flex;
+margin-left: 0;
+justify-content: space-between;
+}
+
+.tic
+{display:flex;
+margin-left: 0;
+justify-content: space-between;
+}
+
+.tec
+
+{display:flex;
+margin-left: 0;
+justify-content: space-between;
+}
+.tyc
+
+{display:flex;
+margin-left: 0;
+justify-content: space-between;
+}
+
+form
+{
+background-color:#EDBB00;
+text-shadow:2px 2px 5px white;
+text-decoration:underline;
+text-align:center;
+display:flex; flex-flow: row wrap;
+justify-content:center;}
+
+h1
+{text-align:center;
+}
+
+.realisation
+{font-weight : bold;
+
+}
+
+.realisation1{
+	font-family:cursive;
+}	
+
+.realisation2{
+	font-family:cursive;
+}	
+
+.realisation3{
+	font-family:cursive;
+}	
+
+.fotoo{
+margin-left: 14%;}
+
+.footo{
+margin-left: 14%;}
+
+.fond1{
+margin: 0;
+		
+		background-image:url("https://image.made-in-china.com/202f0j10mFutqpdGEIcB/Italy-Design-3D-Brick-Wallpaper-with-Foaming-Design.jpg");
+		color:white;
+font-weight : bold;}
+
+.fond2{
+	margin: 0;
+		background-color:gray;
+		background-image:url("https://i.ebayimg.com/images/g/8pwAAOSwvjdZSUDB/s-l640.jpg");
+		color:white;
+font-weight : bold;}
+
+.ecrire{
+color:black;
+}
+
+.con
+{padding-bottom:200px;
+padding-top:200px;}
+
+h4
+{font-size: 14px;}
